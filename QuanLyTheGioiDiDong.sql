@@ -279,7 +279,28 @@ SELECT BillID,ProblemProduct,ReceivedDate,ReleaseDate,EmployeeID
 FROM Warranty
 
 Go
+----------------------------------------------------
+------------INDEX-----------------------------------
+----------------------------------------------------
 
+--tạo index nonclustered cho table Customers theo CustomerPhone 
+create nonclustered index index_Customer_Phone
+on Customers(CustomerPhone)
+
+--tạo index nonclustered cho table Bills theo CustomerID
+create nonclustered index index_Bills_Customers_CustomerID
+on Bills(CustomerID)
+include (ProductName,Price,ProductID,EmployeeSellID,SellDate);
+go
+
+------------------------------------
+
+--Tạo index nonclustered cho table Products theo ProductCost và  StatusProduct, chứa ProductName và IDType trên index
+create nonclustered index index_Products_ProductCost
+on Products(ProductCost,StatusProduct)
+Include(ProductName,IDType)
+
+--cai nay la index de seach tim kiem thong tin hoa don + ten cua Nhan vien ban hoa don theo sdt
 
 ----------------------------------------------------
 ------------Trigger----------------------------
@@ -1363,6 +1384,7 @@ Go
 declare @A money
 exec @A = Revenue 12
 print @A
+
 
 
 
