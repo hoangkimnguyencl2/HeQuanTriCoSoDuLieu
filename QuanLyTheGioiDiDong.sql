@@ -1337,7 +1337,7 @@ Go
 
 
 
-
+--Lấy Ảnh của sản phẩm khi truyền vào mã sản phẩm
 
 
 
@@ -1359,11 +1359,7 @@ End
 Go
 
 
-
-
-
-
-
+--Tính doanh thu theo từng tháng
 
 if OBJECT_ID('Revenue') is not null
 	Drop FUNCTION Revenue;
@@ -1381,10 +1377,17 @@ Where YEAR(GetDate()) = YEAR(SellDate) and Convert(int,MONTH(Bills.SellDate)) = 
 End
 Go
 
-declare @A money
-exec @A = Revenue 12
-print @A
+----------------------------------------------------
+------------------DATA------------------------------
+----------------------------------------------------
 
-
-
-
+--Insert into Accounts(UserName,Password,AccountPolicy) Values('Admin','123','Admin')
+--Insert into Accounts(UserName,Password,AccountPolicy) Values('NhanVienBanHang','123','NhanVien')
+--Insert into Accounts(UserName,Password,AccountPolicy) Values('NhanVienKyThuat','123','NhanVien')
+----
+--Insert into EmployeeGroups(GroupName) Values('Ban Hang')
+--Insert into EmployeeGroups(GroupName) Values('Ky Thuat')
+----
+--Insert into Employees(EmployeeName,Sex,Salary,IDGroup,AccountID) values('KimNguyen','Nam',2000,1,2)
+--Insert into Employees(EmployeeName,Sex,Salary,IDGroup,AccountID) values('Tan','Nam',2000,2,3)
+----
