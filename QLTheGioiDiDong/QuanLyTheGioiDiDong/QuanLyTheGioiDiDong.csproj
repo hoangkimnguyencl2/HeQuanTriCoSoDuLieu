@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7C9DEC91-A928-4D4A-9CBB-D58BE58C5AD5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QuanLyTheGioiDiDong</RootNamespace>
+    <AssemblyName>QuanLyTheGioiDiDong</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrAddWarranty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrAddWarranty.Designer.cs">
+      <DependentUpon>FrAddWarranty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrBillEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrBillEmployee.Designer.cs">
+      <DependentUpon>FrBillEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BS Layer\BLAdd.cs" />
+    <Compile Include="BS Layer\BLdangnhap.cs" />
+    <Compile Include="BS Layer\BLDelete.cs" />
+    <Compile Include="BS Layer\BLLinhTinh.cs" />
+    <Compile Include="BS Layer\BLloadcbb.cs" />
+    <Compile Include="BS Layer\BLLoadData.cs" />
+    <Compile Include="BS Layer\BLUndo.cs" />
+    <Compile Include="BS Layer\BLUpdate.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrAddCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrAddCustomer.Designer.cs">
+      <DependentUpon>FrAddCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrAddGroupNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrAddGroupNhanVien.Designer.cs">
+      <DependentUpon>FrAddGroupNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrAddNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrAddNhanVien.Designer.cs">
+      <DependentUpon>FrAddNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrAddProductDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrAddProductDetails.Designer.cs">
+      <DependentUpon>FrAddProductDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrAddProductType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrAddProductType.Designer.cs">
+      <DependentUpon>FrAddProductType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frAddUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frAddUser.Designer.cs">
+      <DependentUpon>frAddUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrDetailProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrDetailProduct.Designer.cs">
+      <DependentUpon>FrDetailProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrNhanVienBanHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrNhanVienBanHang.Designer.cs">
+      <DependentUpon>FrNhanVienBanHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrNhanVienKyThuat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrNhanVienKyThuat.Designer.cs">
+      <DependentUpon>FrNhanVienKyThuat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrQuanTriAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrQuanTriAdmin.Designer.cs">
+      <DependentUpon>FrQuanTriAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrRevenue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrRevenue.Designer.cs">
+      <DependentUpon>FrRevenue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrSellProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrSellProduct.Designer.cs">
+      <DependentUpon>FrSellProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuanLyTheGioiDiDong.cs">
+      <DependentUpon>QuanLyTheGioiDiDong.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyTheGioiDiDong.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QuanLyTheGioiDiDong.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="TheGioiDiDongDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TheGioiDiDongDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FrAddWarranty.resx">
+      <DependentUpon>FrAddWarranty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrBillEmployee.resx">
+      <DependentUpon>FrBillEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrAddCustomer.resx">
+      <DependentUpon>FrAddCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrAddGroupNhanVien.resx">
+      <DependentUpon>FrAddGroupNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrAddNhanVien.resx">
+      <DependentUpon>FrAddNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrAddProductDetails.resx">
+      <DependentUpon>FrAddProductDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrAddProductType.resx">
+      <DependentUpon>FrAddProductType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frAddUser.resx">
+      <DependentUpon>frAddUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrDetailProduct.resx">
+      <DependentUpon>FrDetailProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrNhanVienBanHang.resx">
+      <DependentUpon>FrNhanVienBanHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrNhanVienKyThuat.resx">
+      <DependentUpon>FrNhanVienKyThuat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrQuanTriAdmin.resx">
+      <DependentUpon>FrQuanTriAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrRevenue.resx">
+      <DependentUpon>FrRevenue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrSellProduct.resx">
+      <DependentUpon>FrSellProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="QuanLyTheGioiDiDong.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>QuanLyTheGioiDiDong.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QuanLyTheGioiDiDong.dbml.layout">
+      <DependentUpon>QuanLyTheGioiDiDong.dbml</DependentUpon>
+    </None>
+    <None Include="TheGioiDiDongDataSet.xsc">
+      <DependentUpon>TheGioiDiDongDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="TheGioiDiDongDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TheGioiDiDongDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TheGioiDiDongDataSet.xss">
+      <DependentUpon>TheGioiDiDongDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\hinh-nen-may-tinh-thien-nhien-4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\AnhNen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\anh-thien-nhien-dep-5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\thegioididong.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\yasuo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\yasuo-ma-kiem-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\addbtn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Load.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\close1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\undo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\adduser.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\xemchitiet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Sell.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Bill.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Bill2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Seach.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\OK.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\revenue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

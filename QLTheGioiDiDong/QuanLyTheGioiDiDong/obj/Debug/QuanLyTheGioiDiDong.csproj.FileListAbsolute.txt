@@ -1,0 +1,86 @@
+D:\HK1 Nam3\DoAnHeQuanTri\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\bin\Debug\QuanLyTheGioiDiDong.exe.config
+D:\HK1 Nam3\DoAnHeQuanTri\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\bin\Debug\QuanLyTheGioiDiDong.exe
+D:\HK1 Nam3\DoAnHeQuanTri\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\bin\Debug\QuanLyTheGioiDiDong.pdb
+D:\HK1 Nam3\DoAnHeQuanTri\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.csprojAssemblyReference.cache
+D:\HK1 Nam3\DoAnHeQuanTri\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.Form1.resources
+D:\HK1 Nam3\DoAnHeQuanTri\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.Properties.Resources.resources
+D:\HK1 Nam3\DoAnHeQuanTri\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.csproj.GenerateResource.cache
+D:\HK1 Nam3\DoAnHeQuanTri\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.csproj.CoreCompileInputs.cache
+D:\HK1 Nam3\DoAnHeQuanTri\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.exe
+D:\HK1 Nam3\DoAnHeQuanTri\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.pdb
+D:\HK1 Nam3\DoAnHeQuanTri\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrQuanTriAdmin.resources
+D:\HK1 Nam3\DoAnHeQuanTri\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\Interop.WMPLib.dll
+D:\HK1 Nam3\DoAnHeQuanTri\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\AxInterop.WMPLib.dll
+D:\HK1 Nam3\DoAnHeQuanTri\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.csproj.ResolveComReference.cache
+D:\HK1 Nam3\DoAnHeQuanTri\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\bin\Debug\Interop.WMPLib.dll
+D:\HK1 Nam3\DoAnHeQuanTri\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\bin\Debug\AxInterop.WMPLib.dll
+D:\HK1 Nam3\DoAnHeQuanTri\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrAddGroupNhanVien.resources
+D:\HK1 Nam3\DoAnHeQuanTri\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrAddNhanVien.resources
+D:\HK1 Nam3\DoAnHeQuanTri\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrAddProductDetails.resources
+D:\HK1 Nam3\DoAnHeQuanTri\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrAddProductType.resources
+D:\HK1 Nam3\DoAnHeQuanTri\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.frAddUser.resources
+D:\HK1 Nam3\DoAnHeQuanTri\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrDetailProduct.resources
+D:\HK1 Nam3\DoAnHeQuanTri\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrSellProduct.resources
+D:\HK1 Nam3\DoAnHeQuanTri\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrBillEmployee.resources
+D:\HK1 Nam3\DoAnHeQuanTri\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrAddCustomer.resources
+D:\HK1 Nam3\DoAnHeQuanTri\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrNhanVienBanHang.resources
+D:\HK1 Nam3\DoAnHeQuanTri\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrNhanVienKyThuat.resources
+D:\HK1 Nam3\DoAnHeQuanTri\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrAddWarranty.resources
+D:\HK1 Nam3\DoAnHeQuanTri\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrRevenue.resources
+E:\hệ quản trị cơ sở dữ liệu\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\bin\Debug\QuanLyTheGioiDiDong.exe.config
+E:\hệ quản trị cơ sở dữ liệu\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\bin\Debug\QuanLyTheGioiDiDong.exe
+E:\hệ quản trị cơ sở dữ liệu\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\bin\Debug\QuanLyTheGioiDiDong.pdb
+E:\hệ quản trị cơ sở dữ liệu\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\bin\Debug\Interop.WMPLib.dll
+E:\hệ quản trị cơ sở dữ liệu\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\bin\Debug\AxInterop.WMPLib.dll
+E:\hệ quản trị cơ sở dữ liệu\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.csprojAssemblyReference.cache
+E:\hệ quản trị cơ sở dữ liệu\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\Interop.WMPLib.dll
+E:\hệ quản trị cơ sở dữ liệu\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\AxInterop.WMPLib.dll
+E:\hệ quản trị cơ sở dữ liệu\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.csproj.ResolveComReference.cache
+E:\hệ quản trị cơ sở dữ liệu\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrAddWarranty.resources
+E:\hệ quản trị cơ sở dữ liệu\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrBillEmployee.resources
+E:\hệ quản trị cơ sở dữ liệu\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.Form1.resources
+E:\hệ quản trị cơ sở dữ liệu\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrAddCustomer.resources
+E:\hệ quản trị cơ sở dữ liệu\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrAddGroupNhanVien.resources
+E:\hệ quản trị cơ sở dữ liệu\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrAddNhanVien.resources
+E:\hệ quản trị cơ sở dữ liệu\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrAddProductDetails.resources
+E:\hệ quản trị cơ sở dữ liệu\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrAddProductType.resources
+E:\hệ quản trị cơ sở dữ liệu\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.frAddUser.resources
+E:\hệ quản trị cơ sở dữ liệu\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrDetailProduct.resources
+E:\hệ quản trị cơ sở dữ liệu\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrNhanVienBanHang.resources
+E:\hệ quản trị cơ sở dữ liệu\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrNhanVienKyThuat.resources
+E:\hệ quản trị cơ sở dữ liệu\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrQuanTriAdmin.resources
+E:\hệ quản trị cơ sở dữ liệu\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrRevenue.resources
+E:\hệ quản trị cơ sở dữ liệu\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrSellProduct.resources
+E:\hệ quản trị cơ sở dữ liệu\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.Properties.Resources.resources
+E:\hệ quản trị cơ sở dữ liệu\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.csproj.GenerateResource.cache
+E:\hệ quản trị cơ sở dữ liệu\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.exe
+E:\hệ quản trị cơ sở dữ liệu\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.pdb
+C:\Users\DELL\Desktop\đồ án\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\bin\Debug\QuanLyTheGioiDiDong.exe.config
+C:\Users\DELL\Desktop\đồ án\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\bin\Debug\QuanLyTheGioiDiDong.exe
+C:\Users\DELL\Desktop\đồ án\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\bin\Debug\QuanLyTheGioiDiDong.pdb
+C:\Users\DELL\Desktop\đồ án\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\bin\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\đồ án\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\đồ án\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\đồ án\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\Interop.WMPLib.dll
+C:\Users\DELL\Desktop\đồ án\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DELL\Desktop\đồ án\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\đồ án\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrAddWarranty.resources
+C:\Users\DELL\Desktop\đồ án\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrBillEmployee.resources
+C:\Users\DELL\Desktop\đồ án\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.Form1.resources
+C:\Users\DELL\Desktop\đồ án\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrAddCustomer.resources
+C:\Users\DELL\Desktop\đồ án\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrAddGroupNhanVien.resources
+C:\Users\DELL\Desktop\đồ án\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrAddNhanVien.resources
+C:\Users\DELL\Desktop\đồ án\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrAddProductDetails.resources
+C:\Users\DELL\Desktop\đồ án\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrAddProductType.resources
+C:\Users\DELL\Desktop\đồ án\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.frAddUser.resources
+C:\Users\DELL\Desktop\đồ án\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrDetailProduct.resources
+C:\Users\DELL\Desktop\đồ án\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrNhanVienBanHang.resources
+C:\Users\DELL\Desktop\đồ án\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrNhanVienKyThuat.resources
+C:\Users\DELL\Desktop\đồ án\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrQuanTriAdmin.resources
+C:\Users\DELL\Desktop\đồ án\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrRevenue.resources
+C:\Users\DELL\Desktop\đồ án\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.FrSellProduct.resources
+C:\Users\DELL\Desktop\đồ án\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.Properties.Resources.resources
+C:\Users\DELL\Desktop\đồ án\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\đồ án\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\đồ án\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.exe
+C:\Users\DELL\Desktop\đồ án\QuanLyTheGioiDiDong\QuanLyTheGioiDiDong\obj\Debug\QuanLyTheGioiDiDong.pdb
