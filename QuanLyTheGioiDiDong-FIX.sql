@@ -398,14 +398,11 @@ IF OBJECT_ID('ProductTypes_DELETE') IS NOT NULL
 DROP TRIGGER ProductTypes_DELETE; 
 GO
 
-
 CREATE TRIGGER ProductTypes_DELETE
 		ON ProductTypes
 		AFTER DELETE
 
 AS
-
-
 INSERT INTO ProductTypesArchive 
 		  (TypeID,NameType,Number)
 	Select TypeID,NameType,Number
@@ -1259,7 +1256,14 @@ Begin
 		Select * From Bills
 		Where Convert(int,Month(SellDate)) = @Month;
 End
+Go
+if OBJECT_ID('GetCustomer') is not null
+	drop proc GetCustomer
+Go
 
+Create Proc GetCustomer
+As
+Select * From Customers
 
 
 ----------------------------------------------------
@@ -1346,7 +1350,26 @@ End
 GO
 
 
+--Lay AccountID cua tai khoang khi nhap vao UserName
+if OBJECT_ID('GetAccID') is not null
+	Drop FUNCTION GetAccID;
+
+Go
+
+CREATE FUNCTION GetAccID
+			(@NameAcc varchar(50))
+			returns int
+As
+Begin
+	return(select AccountID
+			from Accounts
+			Where UserName = @NameAcc);
+end
+Go
+
 --Lấy ID khách hàng khi nhập SDT
+Go
+
 if OBJECT_ID('GetCustomerID') is not null
 	Drop FUNCTION GetCustomerID;
 
